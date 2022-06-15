@@ -9,6 +9,7 @@ Technologies :man_technologist:
 
 [<img src="https://img.shields.io/badge/c%23-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">](https://dotnet.microsoft.com/en-us/)
+[<img src="https://img.shields.io/badge/.NET MAUI-000000?style=flat&logo=.net&logoColor=white">](https://dotnet.microsoft.com/en-us/apps/maui)
 [<img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=xamarin&logoColor=white">](https://docs.microsoft.com/pt-br/xamarin/)
 [<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white">](https://www.apple.com/br/ios/ios-15/)
 [<img src="https://img.shields.io/badge/Android-000000?style=flat&logo=android&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
