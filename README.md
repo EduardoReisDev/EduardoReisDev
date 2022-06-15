@@ -4,7 +4,7 @@ Connect with me :metal:
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eduardoreisti/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">](https://github.com/EduardoReisDev)
 [<img src="https://img.shields.io/badge/-Behance-black?style=flat&logo=behance&logoColor=white">](https://www.behance.net/eduardoreisdev)
-[<img src="https://img.shields.io/badge/Xbox-000000?style=flat&logo=xbox&logoColor=white>">](https://account.xbox.com/pt-br/profile?gamertag=eduardreis2750)
+[<img src="https://img.shields.io/badge/xbox-000000.svg?style=flat&logo=xbox&logoColor=white>">](https://account.xbox.com/pt-br/profile?gamertag=eduardreis2750)
 [<img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">]
 
 Technologies :man_technologist:
