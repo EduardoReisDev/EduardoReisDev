@@ -18,6 +18,7 @@ Technologies i like to work with :man_technologist:
 Download my apps :calling:
 
 [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat&logo=google-play&logoColor=white">](https://play.google.com/store/apps/developer?id=eduardoreisdev)
+[<img src="https://img.shields.io/badge/App_Store-000000?style=flat&logo=app-store&logoColor=white">](https://www.apple.com/br/app-store/)
 
 That's all folks :wave:
 
