@@ -4,7 +4,6 @@ Connect with me :metal:
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eduardoreisti/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">](https://github.com/EduardoReisDev)
 
-
 Technologies :man_technologist:
 
 [<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">](https://docs.microsoft.com/pt-br/dotnet/csharp/)
@@ -17,9 +16,3 @@ Technologies :man_technologist:
 And, download my apps :calling:
 
 [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat&logo=google-play&logoColor=white">](https://play.google.com/store/apps/developer?id=eduardoreisdev)
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=eduardoreisdev&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
