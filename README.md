@@ -15,7 +15,7 @@ Technologies i like to work with :man_technologist:
 [<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white">](https://www.apple.com/br/ios/ios-15/)
 [<img src="https://img.shields.io/badge/Android-000000?style=flat&logo=android&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 
-And, download my apps :calling:
+Download my apps :calling:
 
 [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat&logo=google-play&logoColor=white">](https://play.google.com/store/apps/developer?id=eduardoreisdev)
 
