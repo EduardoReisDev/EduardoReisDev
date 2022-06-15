@@ -19,4 +19,6 @@ And, download my apps :calling:
 
 [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat&logo=google-play&logoColor=white">](https://play.google.com/store/apps/developer?id=eduardoreisdev)
 
+That's all folks :wave:
+
 ![](https://komarev.com/ghpvc/?username=eduardoreisdev&color=000000&style=flat)
