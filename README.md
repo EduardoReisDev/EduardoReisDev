@@ -7,7 +7,7 @@ Connect With Me :metal:
 
 Technologies :man_technologist:
 
-[<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">]
+[<img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white">]
 [<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white">]
 [<img src="https://img.shields.io/badge/Xamarin-000000?style=for-the-badge&logo=xamarin&logoColor=white">]
 [<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">]
