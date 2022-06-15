@@ -6,7 +6,7 @@ Connect with me :metal:
 [<img src="https://img.shields.io/badge/-Behance-black?style=flat&logo=behance&logoColor=white">](https://www.behance.net/eduardoreisdev)
 [<img src="https://img.shields.io/badge/Xbox-%23000000.svg?style=flat&logo=xbox&logoColor=white">](https://account.xbox.com/pt-br/profile?gamertag=eduardreis2750)
 
-Technologies :man_technologist:
+Technologies i like to work with :man_technologist:
 
 [<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">](https://dotnet.microsoft.com/en-us/)
