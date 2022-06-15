@@ -1,4 +1,4 @@
-Hello, connect with me :metal:
+Connect with me :metal:
 
 [<img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white">](https://eduardoreisdev.medium.com/)
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eduardoreisti/)
