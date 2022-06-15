@@ -17,3 +17,9 @@ Technologies :man_technologist:
 And, download my apps :calling:
 
 [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat&logo=google-play&logoColor=white">](https://play.google.com/store/apps/developer?id=eduardoreisdev)
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=eduardoreisdev&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
