@@ -6,7 +6,7 @@ Connect with me :metal:
 [<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">](https://github.com/EduardoReisDev)
 [<img src="https://img.shields.io/badge/-Behance-black?style=flat&logo=behance&logoColor=white">](https://www.behance.net/eduardoreisdev)
 [<img src="https://img.shields.io/badge/Xbox-%23000000.svg?style=flat&logo=xbox&logoColor=white">](https://account.xbox.com/pt-br/profile?gamertag=eduardreis2750)
-[<img src="https://img.shields.io/badge/Strava-000000?style=flat&logo=medium&logoColor=white">](https://www.strava.com/athletes/3776250))
+[<img src="https://img.shields.io/badge/Strava-000000?style=flat&logo=strava&logoColor=white">](https://www.strava.com/athletes/3776250)
 
 Technologies i like to work with :man_technologist:
 
