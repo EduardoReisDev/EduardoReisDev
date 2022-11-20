@@ -22,6 +22,6 @@ Download my apps :calling:
 [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat&logo=google-play&logoColor=white">](https://play.google.com/store/apps/developer?id=eduardoreisdev)
 [<img src="https://img.shields.io/badge/App_Store-000000?style=flat&logo=app-store&logoColor=white">](https://www.apple.com/br/app-store/)
 
-That's all folks :wave:
+That's all folks <img src="https://user-images.githubusercontent.com/52397976/128292642-cb9d58c3-e01e-41c0-8713-14c59f4fb499.gif" width="20px">
 
 ![](https://komarev.com/ghpvc/?username=eduardoreisdev&color=000000&style=flat)
