@@ -26,4 +26,4 @@ That's all folks <img src="https://user-images.githubusercontent.com/52397976/12
 
 ![](https://komarev.com/ghpvc/?username=eduardoreisdev&color=000000&style=flat)
 
- [<img src="https://www.snppts.dev/img/snppts-badge.jpg" width="100px">](https://www.snppts.dev/author/EduardoReisDev)
+ [<img src="https://www.snppts.dev/img/snppts-badge.jpg" width="200px">](https://www.snppts.dev/author/EduardoReisDev)
