@@ -13,8 +13,6 @@ Technologies i like to work with :man_technologist:
 [<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [<img src="https://img.shields.io/badge/.NET MAUI-000000?style=flat&logo=.net&logoColor=white">](https://dotnet.microsoft.com/en-us/apps/maui)
 [<img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=xamarin&logoColor=white">](https://docs.microsoft.com/pt-br/xamarin/)
-[<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white">](https://www.apple.com/br/ios/ios-15/)
-[<img src="https://img.shields.io/badge/Android-000000?style=flat&logo=android&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 [<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 [<img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 
