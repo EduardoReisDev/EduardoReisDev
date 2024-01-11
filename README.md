@@ -1,6 +1,3 @@
-<img src="https://github.com/EduardoReisDev/EduardoReisDev/assets/52722526/a695d741-c8fd-4727-802a-cc62758a74e4" width="900px">
- 
- 
 Connect with me :metal:
 
 [<img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white">](https://eduardoreisdev.medium.com/)
