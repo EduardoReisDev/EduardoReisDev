@@ -8,13 +8,13 @@ Connect with me :metal:
 
 Technologies i like to work with :man_technologist:
 
-[<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=sharp&logoColor=white">]
-[<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">]
-[<img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white">]
-[<img src="https://img.shields.io/badge/MAUI-000000?style=flat&logo=.net&logoColor=white">]
-[<img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=nutanix&logoColor=white">]
-[<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white">]
-[<img src="https://img.shields.io/badge/Azure-000000?style=flat&logo=accusoft&logoColor=white">]
+<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/MAUI-000000?style=flat&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=nutanix&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-000000?style=flat&logo=accusoft&logoColor=white">
 
 Download my apps :calling:
 
@@ -24,5 +24,3 @@ Download my apps :calling:
 That's all folks <img src="https://user-images.githubusercontent.com/52397976/128292642-cb9d58c3-e01e-41c0-8713-14c59f4fb499.gif" width="20px">
 
 ![](https://komarev.com/ghpvc/?username=eduardoreisdev&color=000000&style=flat)
-
-[<img src="https://www.snppts.dev/img/snppts-badge.jpg" width="140px">](https://www.snppts.dev/author/EduardoReisDev)
