@@ -8,13 +8,7 @@ Connect with me :metal:
 
 Technologies i like to work with :man_technologist:
 
-<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=sharp&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/MAUI-000000?style=flat&logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=nutanix&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-000000?style=flat&logo=accusoft&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/MAUI-000000?style=flat&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=nutanix&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Azure-000000?style=flat&logo=accusoft&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=white">
 
 Download my apps :calling:
 
