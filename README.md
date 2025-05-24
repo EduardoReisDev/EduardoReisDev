@@ -13,7 +13,7 @@ Technologies i like to work with :man_technologist:
 [<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">](https://dotnet.microsoft.com/en-us/apps/maui)
 [<img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 [<img src="https://img.shields.io/badge/MAUI-000000?style=flat&logo=.net&logoColor=white">](https://dotnet.microsoft.com/en-us/apps/maui)
-[<img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=xamarin&logoColor=white">](https://docs.microsoft.com/pt-br/xamarin/)
+[<img src="https://img.shields.io/badge/Xamarin-000000?style=flat&logo=nutanix&logoColor=white">](https://docs.microsoft.com/pt-br/xamarin/)
 [<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 
 Download my apps :calling:
